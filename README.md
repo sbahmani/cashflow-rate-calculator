@@ -284,9 +284,9 @@ uv run sample_numpy_financial.py  # Full demo of all numpy_financial functions
 ### Example Output (`test3.py`)
 
 ```
-نرخ سود ماهانه (IRR)     : 0.039900  (3.9900٪)
-نرخ اسمی سالانه (APR)     : 47.88٪
-نرخ موثر سالانه (EAR)     : 60.43٪
+نرخ سود ماهانه (IRR)     : 0.022518  (2.2518٪)
+نرخ اسمی سالانه (APR)     : 27.02٪
+نرخ موثر سالانه (EAR)     : 30.63٪
 ```
 
 ---
